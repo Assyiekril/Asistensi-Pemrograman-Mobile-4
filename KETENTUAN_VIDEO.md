@@ -44,7 +44,6 @@ Tugas Praktikum Pemrograman Mobile - Java
 
 Nama      : [Isi Nama Lengkap]
 NIM       : [Isi NIM]
-Kelompok  : [Isi Nomor Kelompok]
 Tugas Ke- : [Isi Angka 1-7]
 
 Ringkasan Fitur:
